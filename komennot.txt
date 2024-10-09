@@ -1,0 +1,7 @@
+git clone git@github.com:matildanna/vegevillitys.git
+git status
+git add .
+git commit (ctrl O + enter on talleta / ctrl + x on poistu editorista)
+git log 
+git status
+git push origin main
